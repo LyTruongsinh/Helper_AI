@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+rembg_env/
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
